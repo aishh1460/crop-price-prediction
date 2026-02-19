@@ -1,5 +1,10 @@
 # Crop Price Prediction (Mandi Data)
 
+## Live deloyment link:
+https://crop-price-prediction-dxjyfq6fsalgbhj83kz2ni.streamlit.app/
+
+
+
 ## Overview
 This project predicts the next 7 days of crop prices using historical Mandi data from India. It compares Classical Statistical Models (ARIMA) with Deep Learning approaches (LSTM/MLP).
 
